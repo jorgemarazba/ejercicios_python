@@ -1,0 +1,5 @@
+Este texto se va a guardar en un archivo llamado saludo.txt
+prueba con mas de una
+linea para que se muestre
+en la pantalla todo
+el contenido

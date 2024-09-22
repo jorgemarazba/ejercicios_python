@@ -1,0 +1,3 @@
+Antioquia	Medellin	4	
+Cundinamarca	Bogota	1	
+Bolivar	Cartagena	5	
